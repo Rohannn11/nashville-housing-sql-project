@@ -8,8 +8,8 @@ Project Structure
 -----------------
 File                         | Description
 ----------------------------|-------------------------------------------------------------
-DataCleaning_Enhanced.sql   | SQL queries for cleaning and preparing the housing dataset
-DataInsights_Advanced.sql   | A rich set of exploratory and advanced analytical queries
+ApplicativeDataCleaning.sql   | SQL queries for cleaning and preparing the housing dataset
+Data-Understanding&Insights.sql   | A rich set of exploratory and advanced analytical queries
 
 Project Objectives
 ------------------
@@ -18,7 +18,7 @@ Project Objectives
 - Perform advanced analysis using window functions, CTEs, aggregates, etc.
 - Highlight actionable insights such as pricing trends, anomalies, and property behaviors
 
-Data Cleaning Highlights (DataCleaning_Enhanced.sql)
+Data Cleaning Highlights (ApplicativeDataCleaning.sql)
 -----------------------------------------------------
 - Removed duplicate records using ROW_NUMBER()
 - Standardized categorical values (SoldAsVacant, TaxDistrict)
@@ -31,7 +31,7 @@ Data Cleaning Highlights (DataCleaning_Enhanced.sql)
 
 This file reflects strong command over practical SQL cleaning techniques on semi-structured real-world data.
 
-Data Insights Highlights (DataInsights_Advanced.sql)
+Data Insights Highlights (Data-Understanding&Insights.sql)
 -----------------------------------------------------
 Includes over 40 queries that span basic to highly advanced topics:
 
